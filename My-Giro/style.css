@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .Main-menu{
+    margin: 10px;
+    height: 40px;
+    font-size: 18px;
+    line-height: 41px;
+ }
+ .Main-menu img{
+    float: left;
+    margin-left: 40px;
+ }
+ .Main-menu nav {
+    float: right;
+ }
+
+ .Main-menu ul li{
+    display: inline-block;
+    margin-left: 20px;
+ }
+ .Main-menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+ }
+ .baner{
+    background-image: url(img/scooter-3620869_960_720.jpg);
+    height: 460px;
+    width: 1000px;
+    
+ }
+ .baner p{
+    text-align: center;
+    color: aliceblue;
+padding-top: 120px;
+font-size: 20px;
+ }
+ .text p{
+    padding-bottom: 30px;
+    padding-top: 50px;
+ }
+ .catalog nav {
+float: right;
+ }
+ .catalog ul li{
+    display: inline-block;
+    margin-left: 20px;
+ }
+ .catalog ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+ }
+ .catalog{
+    margin: 10px;
+    height: 40px;
+    font-size: 18px;
+    line-height: 20px;
+ }
+ .catallog p{
+padding-top: 20px;
+font-size: 20px;
+margin: 10px;
+
+ }
